@@ -4,6 +4,9 @@
 #except
 !.gitignore
 !2014_2023_Weekly.ipynb
+
+!README.md
+
 !data
 
 !data/climate
