@@ -1,0 +1,14 @@
+#ignore everything
+*
+
+#except
+!.gitignore
+!2014_2023_Weekly.ipynb
+!data
+
+!data/climate
+!data/climate/*
+
+!data/dengue
+!data/dengue/epi_week
+!data/dengue/epi_week/*
